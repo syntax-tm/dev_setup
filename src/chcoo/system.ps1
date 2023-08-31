@@ -1,11 +1,9 @@
-# amd
+# Amd
 # ---
-
 # choco install amd-ryzen-chipset
 
-# intel
+# Intel
 # -----
-
 # choco install intel-chipset-device-software
 # choco install intel-graphics-driver
 # choco install intel-mas
@@ -15,26 +13,23 @@
 # choco install intel-rst-driver
 # choco install intel-xtu
 
-# nvidia
+# Nvidia
 # ------
-
 # choco install cuda
 # choco install geforce-game-ready-driver
 # choco install nvidia-display-driver
 # choco install nvidia-geforce-now
 # choco install nvidia-profile-inspector
 
-# other
+# Other
 # -----
-
 # choco install dell-omsa
 # choco install icue
 # choco install samsung-magician
 # choco install steelseries-engine
 
-# monitoring
+# Monitoring
 # ----------
-
 # choco install cpu-z
 # choco install directx
 # choco install gpu-z

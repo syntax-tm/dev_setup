@@ -27,29 +27,28 @@ choco install msbuild.communitytasks     # msbuild community extenions
 
 # Misc.
 # -----
+. $PSScriptRoot\scm.ps1
 
-.\scm.ps1
+. $PSScriptRoot\editors.ps1
 
-.\editors.ps1
+. $PSScriptRoot\dev.ps1
 
-.\dev.ps1
+. $PSScriptRoot\powershell.ps1
 
-.\powershell.ps1
+. $PSScriptRoot\tools.ps1
 
-.\tools.ps1
+. $PSScriptRoot\iis.ps1
 
-.\iis.ps1
+. $PSScriptRoot\db.ps1
 
-.\db.ps1
+. $PSScriptRoot\cloud.ps1
 
-.\cloud.ps1
+. $PSScriptRoot\office.ps1
 
-.\office.ps1
+. $PSScriptRoot\fonts.ps1
 
-.\fonts.ps1
+. $PSScriptRoot\media.ps1
 
-.\media.ps1
+. $PSScriptRoot\system.ps1
 
-.\system.ps1
-
-.\windows.ps1
+. $PSScriptRoot\windows.ps1

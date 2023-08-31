@@ -18,7 +18,6 @@ $apps = @(
     'Microsoft.Office.OneNote'
     'Microsoft.People'
     'Microsoft.SkypeApp'
-    'Microsoft.Windows.Photos'
     'Microsoft.windowscommunicationsapps'
     'Microsoft.WindowsPhone'
     'Microsoft.WindowsSoundRecorder'

@@ -43,7 +43,12 @@ function Start-Logging
         New-Item $global:LOG_DIR -ItemType Directory | Out-Null
     }
 
-    Start-Transcript -Path $global:LOG_FILE_PATH -UseMinimalHeader
+    if ($PSEdition -eq 'Core') {
+        Start-Transcript -Path $global:LOG_FILE_PATH -UseMinimalHeader
+    }
+    else {
+        Start-Transcript -Path $global:LOG_FILE_PATH
+    }
 }
 
 function Stop-Logging

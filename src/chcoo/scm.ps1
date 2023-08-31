@@ -3,17 +3,15 @@ choco install git.install --params "'/GitAndUnixToolsOnPath /WindowsTerminal /No
 # installs tortoisegit (file explorer shell extension for git)
 choco install tortoisegit
 
-# git tools
+# Git Tools
 # ---------
-
 # choco install git-lfs
 # choco install gitextensions
 # choco install github-desktop
 # choco install gitkraken
 # choco install gitui
 
-# svn
+# SVN
 # ---
-
 # choco install svn
 # choco install tortoisesvn

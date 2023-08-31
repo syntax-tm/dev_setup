@@ -1,42 +1,35 @@
-# api
-# ---
-
-# choco install postman
+# API
+# ---# choco install postman
 # choco install soapui
 
-# automation
+# Automation
 # ----------
-
 # choco install automouseclick
 # choco install dontsleep
 
-# commandline utils
+# Commandline Utils
 # -----------------
-
 # choco install adb
 # choco install base64
 # choco install dos2unix
 # choco install gzip
 # choco install tree
 
-# containers
+# Containers
 # ----------
-
 # choco install docker-cli
 # choco install docker-compose
 # choco install docker-desktop
 # choco install kubelogin
 # choco install kubernetes-cli
 
-# decomp
+# Decomp
 # ------
-
 # choco install ghidra
 # choco install ilspy
 
-# filesystem
+# Filesystem
 # ----------
-
 # choco install beyondcompare
 # choco install bulkrenameutility
 # choco install directorymonitor
@@ -49,9 +42,8 @@
 # choco install scrcpy
 # choco install teracopy
 
-# jetbrains
+# JetBrains
 # ---------
-
 # choco install dotcover
 # choco install dotmemory
 # choco install dotpeek
@@ -60,15 +52,13 @@
 # choco install resharper
 # choco install resharper-ultimate-all
 
-# logs
+# Logs
 # ----
-
 # choco install logparser
 # choco install msbuild-structured-log-viewer
 
-# network
+# Network
 # -------
-
 # choco install fiddler
 # choco install ipscan
 # choco install nmap
@@ -78,56 +68,48 @@
 # choco install winpcap
 # choco install wireshark
 
-# packages
+# Packages
 # --------
-
 # choco install winget-cli
 # choco install nugetpackagemanager
 
-# password managers
+# Password Managers
 # -----------------
-
 # choco install 1password
 # choco install lastpass
 
-# remote tools
+# Remote Tools
 # ------------
-
 # choco install mousewithoutborders
 # choco install rdcman
 # choco install rdm
 # choco install rdmfree
 # choco install teamviewer9
 
-# security
+# Security
 # --------
-
 # choco install gnupg
 # choco install openssl
 
-# themes
+# Themes
 # ------
-
 # choco install f.lux
 # choco install rainmeter
 
 # UI/UX
 # -----
-
 # choco install flutter
 # choco install pencil
 # choco install snoop
 
 # VMs
 # ---
-
 # choco install virtualbox
 # choco install vmrc
 # choco install vmware-horizon-client
 
-# windows sdk
+# Windows SDK
 # -----------
-
 # choco install windows-adk-all
 # choco install windows-sdk-10-version-1809-all
 # choco install windows-sdk-10-version-2004-all

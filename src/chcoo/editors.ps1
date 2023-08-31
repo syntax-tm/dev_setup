@@ -8,6 +8,7 @@ choco install vscode
 
 # VS Workflows
 # ------------
+# choco install visualstudio2022-workload-azure
 # choco install visualstudio2022-workload-data
 # choco install visualstudio2022-workload-datascience
 # choco install visualstudio2022-workload-manageddesktop
